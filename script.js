@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return part.trim();
             });
 
-            var checkbox = document.createElement("input");
+            var checkbox = document.createElement("input");  
             checkbox.type = "checkbox";
             checkbox.className = "item-checkbox";
             checkbox.dataset.food = foodName;
