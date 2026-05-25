@@ -64,7 +64,7 @@ The website works smoothly on:
 
 🚀 How to Run Project
 Download or clone the repository
-git clone https://github.com/your-username/Mamta-Bhojanalaya.git
+git clone https://github.com/sajiak026-cyber/Mamta-Bhojanalaya.git
 Open folder
 Run index.html in browser
 
